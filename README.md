@@ -6,7 +6,7 @@ Taskify is a Notion-like productivity tool that helps users organize tasks, note
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple *HTML & CSS* snippet from the project:
 
-html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,6 +41,7 @@ html
     <button class="btn">Start Organizing!</button>
 </body>
 </html>
+```
 
 
 📌 *Output Preview:* This code creates a basic webpage for Taskify with a button.
@@ -54,22 +55,25 @@ html
 
 ## 🚀 How to Run the Project
 1. *Clone the repository:*  
-   bash
+  ``` bash
    git clone https://github.com/your-username/taskify.git
+```
    
 2. *Navigate to the project directory:*  
-   bash
+ ```  bash
    cd taskify
+```
    
-3. **Open index.html in a browser to see the output.**
+3. **Open `index.html` in a browser to see the output.**
 
 ---
 
 ## 🤝 Contribution Guidelines
 1. *Fork the repository.*
 2. *Create a new branch for your changes:*  
-   bash
+  ``` bash
    git checkout -b feature-branch
+```
    
 3. *Make changes and commit:*  
    bash
@@ -89,7 +93,7 @@ This project is licensed under MIT License.
 ---
 
 ## 🎯 Task 1 Deliverables
-✅ A completed README.md file in the GitHub repository with formatted text and HTML & CSS snippets.  
+✅ A completed `README.md` file in the GitHub repository with formatted text and HTML & CSS snippets.  
 ✅ Preview of HTML & CSS Code inside the README.  
 ✅ Project features and how-to instructions included.  
 
