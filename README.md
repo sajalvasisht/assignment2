@@ -6,7 +6,7 @@ Taskify is a Notion-like productivity tool that helps users organize tasks, note
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple *HTML & CSS* snippet from the project:
 
-'''html
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,7 +41,6 @@ Here is a simple *HTML & CSS* snippet from the project:
     <button class="btn">Start Organizing!</button>
 </body>
 </html>
-'''
 
 
 📌 *Output Preview:* This code creates a basic webpage for Taskify with a button.
@@ -84,8 +83,11 @@ Here is a simple *HTML & CSS* snippet from the project:
 This project is licensed under MIT License.
 
 ## 👥 Team & Contributors
-• Your Name  
-• Contributor Name  
+• Salaj Kumar
+• Keshav
+• Shally
+• Shubhi
+• Sajal
 
 ---
 
